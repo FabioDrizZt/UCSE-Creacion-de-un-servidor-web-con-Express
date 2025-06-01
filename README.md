@@ -2,7 +2,7 @@
 
 ## 📝 Descripción
 
-Este proyecto es una API RESTful desarrollada con Express.js que proporciona información sobre diferentes frutas. Es parte del curso de Diplomatura Backend de UNTreF.
+Este proyecto es una API RESTful desarrollada con Express.js que proporciona información sobre diferentes frutas. Es parte del curso de Programación II de la UCSE.
 
 ## 🚀 Características
 
